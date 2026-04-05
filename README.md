@@ -24,9 +24,6 @@ Enter Delivery Address & Select Payment Method
 Place Order
 ↓
 
-Track Order Status (Placed → Preparing → Out for Delivery → Delivered)
-↓
-
 View Order History
 
 
